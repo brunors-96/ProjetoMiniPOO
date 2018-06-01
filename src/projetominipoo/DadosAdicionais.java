@@ -9,7 +9,7 @@ package projetominipoo;
  *
  * @author ribas
  */
-public class DadosAdicionais
+public class DadosAdicionais extends Endereco
 {
     
     private String telefoneResidencial;

@@ -9,7 +9,7 @@ package projetominipoo;
  *
  * @author ribas
  */
-public class PessoaJuridica
+public class PessoaJuridica extends DadosAdicionais
 {
     
     private String razaoSocial;
